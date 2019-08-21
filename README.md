@@ -1,4 +1,4 @@
-# JavaBrains_JavaScript
+# JavaScript
 Repo contains JavaScript basics code created by refering to JavaBrains.  <br />
 
 ### Link to tutorials: <br />
